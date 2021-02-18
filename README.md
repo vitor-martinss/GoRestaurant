@@ -9,8 +9,6 @@ This project is an app Restaurant that users can order their favourite food.
 <img alt="Mockup" src="/readme.assets/Splash.png">
 <img alt="Mockup" src="/readme.assets/Entrar.png">
 <img alt="Mockup" src="/readme.assets/Home.png">
-<img alt="Mockup" src="/readme.assets/Meus pedidos.png">
-<img alt="Mockup" src="/readme.assets/Favoritos.png">
 <img alt="Mockup" src="/readme.assets/Detalhes.png">
 
 ## 🚀 Technologies
