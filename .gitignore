@@ -1,0 +1,39 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+src/GoFinances.FrontEnd/node_modules
+src/GoFinances.FrontEnd/.pnp
+src/GoFinances.FrontEnd/.pnp.js
+
+
+
+src/GoFinances.BackEnd/node_modules
+src/GoFinances.BackEnd/.pnp
+src/GoFinances.BackEnd/.env
+src/GoFinances.BackEnd/ormconfig.json
+src/GoFinances.BackEnd/.pnp.js
+src/GoFinances.BackEnd/build/
+src/GoFinances.BackEnd/temp/
+src/GoFinances.BackEnd/tmp/*
+src/GoFinances.BackEnd/!tmp/.gitkeep
+
+# testing
+src/GoFinances.FrontEnd/coverage
+src/GoFinances.BackEnd/coverage
+
+# production
+src/GoFinances.FrontEnd/build
+src/GoFinances.BackEnd/dist
+src/GoFinances.FrontEnd/dist
+
+# misc
+src/GoFinances.FrontEnd/.DS_Store
+src/GoFinances.FrontEnd/.env
+src/GoFinances.FrontEnd/.env.local
+src/GoFinances.FrontEnd/.env.development.local
+src/GoFinances.FrontEnd/.env.test.local
+src/GoFinances.FrontEnd/.env.production.local
+
+src/GoFinances.FrontEnd/npm-debug.log*
+src/GoFinances.FrontEnd/yarn-debug.log*
+src/GoFinances.FrontEnd/yarn-error.log*
