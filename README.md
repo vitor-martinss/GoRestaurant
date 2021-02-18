@@ -2,8 +2,7 @@
 
 ## 💇🏻‍♂️ About the project
 
-This project is a Marketplace where user can buy their favourite product.  
-
+This project is an app Restaurant that users can order their favourite food.  
 
 ## 💻 Screens
 
